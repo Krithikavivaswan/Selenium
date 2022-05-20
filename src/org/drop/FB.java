@@ -14,7 +14,7 @@ public class FB {
 	public static void main(String[] args) throws InterruptedException {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\Krishna\\eclipse-workspace(1)\\Selenium\\drivers\\chromedriver.exe");
+				"C:\\\\eclipse-workspace(1)\\\\Selenium\\\\drivers\\\\chromedriver.exe");
 
 		WebDriver d = new ChromeDriver();
 
